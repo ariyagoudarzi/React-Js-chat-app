@@ -21,7 +21,7 @@ Welcome to the **Chat Application** repository\! This project is a real-time cha
 
 1\. **Clone the repository**:
     ```bash
-    git clone https://github\.com/your-username/chat-application\.git
+    git clone https://github.com/ariyagoudarzi/React-Js-chat-app\.git
     cd chat-application
     ```
 
@@ -58,8 +58,8 @@ This repository will be created in the near future\. Stay tuned for more feature
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: your-email@example\.com
-- **GitHub**: your-username
+- **Email**: adobia057@gmail.com
+- **GitHub**: [ariyagoudarzi](https://github.com/ariyagoudarzi/)
 
 ---
 
